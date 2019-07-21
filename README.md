@@ -1,6 +1,15 @@
 # Java-Algorithm-MonteCarlo
-Algorithm MonteCarlo Made In Java Without Additional Libraries By Dominic Jiang
 
-Contributor List:
+Algorithm MonteCarlo made in Java without additional libraries by Dominic Jiang
 
-1. Dominic Jiang for the production of the algorithm and application development
+## Contributor List:
+
+1. Dominic Jiang for the production of the algorithm and algorithm development
+
+## How To Test This Algorithm On Mac OS Or Windows
+
+1. Download MonteCarlo.jar 
+
+2. Make sure you have JVM downloaded if not find ways to download for your operating system
+
+3. Open terminal and type java (space) -jar (space) and drag the executable jar file in and press enter 
