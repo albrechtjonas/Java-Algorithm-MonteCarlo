@@ -20,3 +20,7 @@ Algorithm MonteCarlo made in Java without additional libraries by Dominic Jiang
 
 <img width="834" alt="Screen Shot 2019-07-22 at 18 42 39" src="https://user-images.githubusercontent.com/49256436/61626769-b86ec700-acb0-11e9-9c33-a3212f408e38.png">
 
+## Command Center
+
+1. Type start to start calculating the estimated pi value by using monte-carlo method
+
