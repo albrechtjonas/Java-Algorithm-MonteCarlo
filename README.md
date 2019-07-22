@@ -24,6 +24,8 @@ Algorithm MonteCarlo made in Java without additional libraries by Dominic Jiang
 
 1. Type start to start calculating the estimated pi value by using monte-carlo method
 
+2. I wish you enjoy my algorithm and have a wonderful rest of your day
+
 ## ScreenShot
 
 <img width="1276" alt="Screen Shot 2019-07-22 at 18 51 18" src="https://user-images.githubusercontent.com/49256436/61627207-c53fea80-acb1-11e9-9c17-9420bfe797d6.png">
