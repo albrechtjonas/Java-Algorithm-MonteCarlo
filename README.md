@@ -35,4 +35,6 @@ Algorithm MonteCarlo made in Java without additional libraries by Dominic Jiang
 
 facing the security issues from the stack overflow library
 
-1 and 2
+## Command 
+
+1. A timer for recording time collapse
