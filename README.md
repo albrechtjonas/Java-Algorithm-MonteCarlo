@@ -34,3 +34,5 @@ Algorithm MonteCarlo made in Java without additional libraries by Dominic Jiang
 # Please Follow dominicjiang On Github
 
 facing the security issues from the stack overflow library
+
+1 and 2
