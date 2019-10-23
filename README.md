@@ -16,12 +16,6 @@
 
 ## Features
 
-- Tracking Enemy is added to the game
-
-- New Weapon Fragment Bullet is added to the game
-
-- Rage Mode and Blood Stealer Mode is added to the game
-
 ## ScreenShot
 
 # For More Algorithms, Games And Coding Projects
