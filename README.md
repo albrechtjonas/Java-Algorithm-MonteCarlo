@@ -15,3 +15,4 @@ raw image?
 that is ok though
 yes
 okokok that is it I am done with you
+well not to soon though right?
