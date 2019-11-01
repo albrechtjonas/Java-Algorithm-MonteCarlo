@@ -14,3 +14,4 @@ it is piece of trash sometimes
 raw image?
 that is ok though
 yes
+okokok that is it I am done with you
