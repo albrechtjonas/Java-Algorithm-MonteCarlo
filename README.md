@@ -11,3 +11,4 @@ I think that is cool though even I don't like that much but it is good man
 coolo
 what does that even mean oh my god right?
 it is piece of trash sometimes
+raw image?
