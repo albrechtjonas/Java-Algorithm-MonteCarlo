@@ -12,3 +12,4 @@ coolo
 what does that even mean oh my god right?
 it is piece of trash sometimes
 raw image?
+that is ok though
