@@ -19,3 +19,4 @@ how are you doing my dude my dyde right there as you might see
 fas
 fassit and what is good ladies and gentlemen
 probbably
+this is ok to be honest with you it is fine dude
