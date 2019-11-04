@@ -16,7 +16,7 @@ what is so funny?
 right?
 gfds
 how are you doing my dude my dyde right there as you might see
-fas
+faswhat is even wrong with you my dude?
 fassit and what is good ladies and gentlemen
 probbably
 this is ok to be honest with you it is fine dude
