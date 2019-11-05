@@ -14,7 +14,11 @@
 
 ## How To Use
 
+- Type start to start calculating the estimate value for PI
+
 ## Features
+
+- Use monte carlo algorithm (random points) to calculate the estimate value for PI
 
 ## ScreenShot
 
