@@ -14,11 +14,19 @@
 
 ## How To Use
 
-- Type start to start calculating the estimate value for PI
+- Type solve in the textfield to start calculating the estimate value for PI
 
 ## Features
 
 - Use monte carlo algorithm (random points) to calculate the estimate value for PI
+
+- Use the inside points (points inside of the circle) divided by the total points we plotted to get the ratio
+
+- Since we know the area formula for the circle (πr2)
+
+- Use the ratio to multiply the square area to get the circle area then divide by the square of the radius 
+
+- PI= (Area of the square) * (Ratio) / (Radius * Radius)
 
 ## ScreenShot
 
