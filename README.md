@@ -24,6 +24,8 @@
 
 - Use monte carlo algorithm (random points) to calculate the estimate value for PI
 
+- Use Pythagorean Theorem to calculate if the point is inside or outside of the circle
+
 - Use the inside points (points inside of the circle) divided by the total points we plotted to get the ratio
 
 - Since we know the area formula for the circle (πr2)
