@@ -12,9 +12,13 @@
 
 - Open terminal and type java -jar (directory of MonteCarlo.jar file)
 
+![Screen Shot 2019-11-05 at 20 54 25](https://user-images.githubusercontent.com/49256436/68269388-83437600-000e-11ea-8567-4cceadae139d.png)
+
 ## How To Use
 
 - Type solve in the textfield to start calculating the estimate value for PI
+
+- Type reset in the textfield to clear the points and end the current calculation
 
 ## Features
 
